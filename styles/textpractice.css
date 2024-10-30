@@ -1,0 +1,30 @@
+p{
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.topline{
+  font-weight: 10;
+  font-size: 24px;
+}
+.dollar{
+  font-size: 16px;
+  color:gray;
+  margin-left: 4px;
+}
+
+.green{
+  color: green;
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+.after{
+  color:gray;
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+.red{
+  color:red;
+}
